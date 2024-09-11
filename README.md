@@ -1,13 +1,12 @@
 # 👋 Hi, I'm René!
-💻 Studying software engineering at the University of Applied Sciences and Arts [Fachhochschule Dortmund](https://www.fh-dortmund.de/studiengaenge/informatik-dual-bachelor.php), Germany <br/>
+💻 Studying software engineering at the University of Applied Sciences and Arts [Fachhochschule Dortmund](https://www.fh-dortmund.de/studiengaenge/informatik-dual-bachelor.php?loc=en), Germany <br/>
 🎨 Making music on [YouTube](https://www.youtube.com/@user-cp4yq1qr9h)<br/>
 💍 Married to my beautiful wife and a new adventure already loading... 🍼<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=reelxi&theme=dark&include_all_commits=true&count_private=true)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reelxi&layout=compact)
+![René's GitHub stats](https://github-readme-stats.vercel.app/api?username=reelxi&theme=dark&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reelxi&layout=compact&theme=dark)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra
 # 💻 Things I work with
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
